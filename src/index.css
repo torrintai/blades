@@ -1,0 +1,89 @@
+body {
+  background-image: url("gold4.jpg");
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.projects h2 {
+  font-size: 42px;
+  margin: 25px auto;
+}
+
+.projects p {
+  font-size: 18px;
+  line-height: 130%;
+  max-width: 50ch;
+}
+
+.projects__cards {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.projects__card {
+  max-width: 350px;
+
+  padding: 20px;
+
+  border: 1px solid #0088BB;
+  border-radius: 8px;
+}
+
+.projects__card h3 {
+  font-size: 32px;
+  font-weight: 300;
+  margin-bottom: 10px;
+}
+
+.projects__card p {
+  font-size: 16px;
+  margin: 20px 0;
+}
+
+.projects__card img {
+  width: 100%;
+  height: auto;
+  margin: 20px 0 10px;
+
+  border-radius: 8px;
+}
+
+.projects__card .button {
+  margin: 10px 5px 0;
+}
+.button {
+  display: inline-block;
+
+  background: #12BDF3;
+
+  padding: 15px 50px;
+
+  border: none;
+  border-radius: 8px;
+
+  font-family: "Work Sans";
+  font-size: 16px;
+  font-weight: 700;
+  text-decoration: none;
+
+  cursor: pointer;
+
+  transition: all 250ms ease;
+}
+
+.button:hover {
+  background: #0088BB;
+  color: #FFFFFF;
+}
