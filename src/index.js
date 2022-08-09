@@ -19,7 +19,7 @@ ReactDOM.render(
     <Navigation />
     <Routes>
       <Route path="/" element={<Home />} />
-      <Route path="/knives" element={<Blades />} />
+      <Route path="/blades" element={<Blades />} />
       <Route path="/contact" element={<Contact />} />
       <Route path="/care" element={<Care />} />
       <Route path="/create" element={<Create />} />

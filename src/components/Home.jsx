@@ -1,9 +1,5 @@
 import React from "react";
 import sibert from '../assets/sibert.png';
-import sibert2 from '../assets/sibert2.png';
-import sibert3 from '../assets/sibert3.png';
-
-
 
 function Home() {
   return (
@@ -15,16 +11,6 @@ function Home() {
             <img
               class="img-fluid rounded mb-4 mb-lg-0"
               src={sibert}
-              alt="Torrin Hexico Hexverse"
-            />
-            <img
-              class="img-fluid rounded mb-4 mb-lg-0"
-              src={sibert2}
-              alt="Torrin Hexico Hexverse"
-            />
-            <img
-              class="img-fluid rounded mb-4 mb-lg-0"
-              src={sibert3}
               alt="Torrin Hexico Hexverse"
             />
           </div>
