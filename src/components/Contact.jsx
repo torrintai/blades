@@ -1,5 +1,5 @@
 import React from "react";
-import psiphi from '../assets/psiphi.png';
+import bowdrill from '../assets/bowdrill.png';
 
 function Contact() {
   return (
@@ -9,7 +9,7 @@ function Contact() {
           <div class="col-lg-7">
             <img
               class="img-fluid rounded mb-4 mb-lg-0"
-              src={psiphi}
+              src={bowdrill}
               alt=""
             />
           </div>
