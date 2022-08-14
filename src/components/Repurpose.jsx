@@ -35,7 +35,7 @@ function Repurpose() {
             <div class="col-lg-5">
               <h1 class="font-weight-light">Repurpose | Modify | Personalize</h1>
               <h3>The knife shown here has been highly modified to suit my needs.</h3>
-              The texture on the handle scales were added by me. The guard on the spine side, opposite of the blade, was removed. The end of the tang was also modified.
+              The texture on the handle scales was added by me. The guard on the spine side, opposite of the blade, was removed. The end of the tang was also modified.
               <p>
               Repurposing, personalizing, and modifying to create edged tools that suit your own tastes and needs is fun, rewarding and educational. You can start modifying literal junk with minimal tools. You can modify knives and axes, or repurpose high carbon steel harvested from many other sources into useful tools. 
               If you are modifying a piece of metal that is already a blade and has been heat treated, you have to be careful not to ruin the heat treatment, the hardening and tempering. Keep the blade cool while reshaping. If you see the color of the steel start to change you are approaching the danger zone, if the steel changes to blue your in trouble.
